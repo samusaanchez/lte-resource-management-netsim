@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Plots>
+  <Plot>
+    <Plot SUBLAYER_NAME="Buffer Occupancy">
+      <Plot DisplayName="Buffer Size vs Time" LogFileName="Buffer_Occupancy_Log.csv" ScriptFileName="Buffer_Occupancy_Log\Buffer_Occupancy_Log_Occupied_Buffer_Size_vs_Time.xml" />
+    </Plot>
+  </Plot>
+</Plots>

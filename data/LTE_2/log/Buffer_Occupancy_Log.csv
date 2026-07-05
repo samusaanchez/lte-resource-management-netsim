@@ -1,0 +1,5 @@
+Time (Microseconds),Device ID,Device Name,Interface ID,Interface Name,Occupied Buffer Size (Bytes),Total Buffer Size (MB),Virtual Interface Name,Remarks,
+0.000000,1,EPC_1,2,Interface_2 (WAN),64.000000,8.000000,N/A,ENQUEUE
+0.000000,6,ROUTER_6,2,Interface_2 (WAN),64.000000,8.000000,N/A,ENQUEUE
+0.000000,1,EPC_1,2,Interface_2 (WAN),0.000000,8.000000,N/A,DEQUEUE
+0.000000,6,ROUTER_6,2,Interface_2 (WAN),0.000000,8.000000,N/A,DEQUEUE
